@@ -1,0 +1,27 @@
+li {
+    list-style-image: url(pngegg.png);
+}
+ul {
+    background:violet;
+    padding: 20px;
+}
+ul li {
+    margin: 10px;
+    background:rgb(245, 197, 255);
+}
+body {
+    background-color: rgb(139, 88, 139);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    text-align: center;
+    margin: auto;
+}
+h2 {
+    text-align: center;
+    margin: auto;
+}
+li:hover {
+    color: yellow;
+    background: rgb(71, 71, 59);
+}
